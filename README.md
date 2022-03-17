@@ -1,6 +1,5 @@
-# Deep Spell Checker
+# DadmaCheck: A Bert-Based Spell-Checker for Persian
 
-DeepSp is a Deep learning based model for spell checking perisna texts
 
 ## packages Installation
 
@@ -9,7 +8,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 ```bash
 pip install -r requirements.txt
 ```
-## Download model dump
+## Download model checkpoint and vocab
 
 
 ```bash
@@ -18,10 +17,10 @@ gdown https://drive.google.com/uc?id=1VNr27NoyJ0H8Vt3-ck2r9UF4PrKDb1nB
 cp bert_spell_checker_checkpoint.tar.xz model/
 tar xvf model/bert_spell_checker_checkpoint.tar.xz
 ```
-## run werbservice
+## run
 
 
 ```bash
-python webservice.py
+python main.py
 ```
 
