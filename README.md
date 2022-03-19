@@ -1,4 +1,4 @@
-# DadmaCheck: A Bert-Based Spell-Checker for Persian
+# Nevise: A Bert-Based Spell-Checker for Persian
 
 
 ## packages Installation
