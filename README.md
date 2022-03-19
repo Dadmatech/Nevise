@@ -1,5 +1,6 @@
 # Nevise: A Bert-Based Spell-Checker for Persian
 
+Nevise is a Persian spelling-checker developed by Dadmatech  Co based on deep learning. Nevise is available in two versions. The second version has greater accuracy, the ability to correct errors based on spaces, and a better understanding of special characters like half space. These versions can be accessed via web services and as demos. We provide public access to the code and model checkpoint of the first version here.
 
 ## packages Installation
 
