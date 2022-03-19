@@ -29,7 +29,7 @@ python main.py
 
 [Nevise(both versions)](https://dadmatech.ir/#/products/SpellChecker)
 
-# Results on [Nevise Dataset](https://github.com/Dadmatech/Nevise-Dataset/tree/main/nevise-news-title-539_
+# Results on [Nevise Dataset](https://github.com/Dadmatech/Nevise-Dataset/tree/main/nevise-news-title-539)
 
 </br>
 
