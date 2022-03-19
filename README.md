@@ -36,7 +36,7 @@ python main.py
 | Algorithm | Wrong detection rate | Wrong correction rate | Correct to wrong rate | Precision |
 | -- | -- | -- | -- | -- |
 | Nevise 2 | **0.8314** | **0.7216** | 0.003 | 0.968 |
-| Nevise 1 | 0.7647 | 0.6824 | **0.0019** | **0.9774** |
 | Paknevis | 0.7843 | 0.6706 | 0.228 | 0.7921 |
+| Nevise 1 | 0.7647 | 0.6824 | **0.0019** | **0.9774** |
 | Google | 0.7392 | 0.702 | 0.0045 | 0.9449 |
 | Virastman | 0.6 | 0.5 | 0.0032 | 0.9533 |
